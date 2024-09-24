@@ -1,0 +1,20 @@
+1. What is Java. What are features of Java?
+ Java is a high-level programming language and is platform-independent.
+
+ - Java is also an object-oriented language. However, everything (except fundamental types) is an object in Java
+ - Platform independent: A single program works on different platforms without any modification.
+ - High Performance: JIT (Just In Time compiler) enables high performance in Java. JIT converts the bytecode into machine language and then JVM starts the execution.
+ - Multi-threaded. We can write Java programs that deal with many tasks at once by defining multiple threads.
+ - Java doesn't support multiple inheritance through class. It can be achieved by interfaces in java.
+ - Secured: Java is secured because it doesn't use explicit pointers.
+ - Java is a strong programming language as it uses strong memory management. The concepts like Automatic garbage collection.
+
+
+1. Java là gì ? Những đặc trưng của java là gì ?
+ - Java cũng là ngôn ngữ hướng đối tượng. Tuy nhiên, mọi thứ (ngoại trừ các kiểu cơ bản) đều là đối tượng trong Java.
+ - Độc lập nền tảng: Một chương trình có thể hoạt động trên các nền tảng khác nhau mà không cần chỉnh sửa.
+ - Hiệu suất cao: Trình biên dịch JIT (Just In Time compiler) giúp Java có hiệu suất cao. JIT chuyển đổi mã bytecode thành ngôn ngữ máy và sau đó JVM bắt đầu thực thi.
+ - Đa luồng: Chúng ta có thể viết các chương trình Java xử lý nhiều tác vụ cùng một lúc bằng cách định nghĩa nhiều luồng.
+ - Java không hỗ trợ đa kế thừa thông qua lớp. Điều này có thể được thực hiện thông qua giao diện (interface) trong Java.
+ - Bảo mật: Java an toàn vì không sử dụng con trỏ tường minh.
+ - Java là một ngôn ngữ lập trình mạnh mẽ nhờ việc quản lý bộ nhớ tốt. Các khái niệm như thu gom rác tự động (Automatic garbage collection).

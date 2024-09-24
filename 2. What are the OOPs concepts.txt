@@ -1,0 +1,30 @@
+2. What are the OOPs concepts?
+ OOPs concepts include:
+
+ - Inheritance
+   Inheritance means one class can extend to another class. So that the codes can be reused from one class to another class. The existing class is known as the Super class whereas the derived class is known as a sub class. Inheritance is only applicable to the public and protected members only. Private members can’t be inherited.
+ - Encapsulation
+   Protects the code from others. Code maintainability. For encapsulation, we need to make all the instance variables private and create setter and getter for those variables. Which in turn will force others to call the setters rather than access the data directly.
+ - Polymorphism
+   A single object can refer to the super-class or sub-class depending on the reference type which is called polymorphism. Polymorphism is applicable for overriding
+ - Abstraction
+   Abstraction in object-oriented programming means hiding complex internals but to expose only essential characteristics and behavior with respect to context.
+ - Interface
+   Multiple inheritances cannot be achieved in java. To overcome this problem the Interface concept is introduced. An interface is a template which has only method declarations and not the method implementation.
+
+
+2. Những khái nhiệm của OOP? 
+ - Kế thừa (Inheritance)
+   Kế thừa có nghĩa là một lớp có thể mở rộng một lớp khác, để các mã có thể được tái sử dụng từ lớp này sang lớp khác. Lớp hiện có được gọi là lớp cha (Super class) trong khi lớp kế thừa được gọi là lớp con (Sub class). Kế thừa chỉ áp dụng cho các thành viên công khai (public) và được bảo vệ (protected). Các thành viên riêng tư (private) không thể được kế thừa.
+
+ - Đóng gói (Encapsulation)
+   Đóng gói bảo vệ mã khỏi sự can thiệp từ bên ngoài và giúp duy trì mã dễ dàng hơn. Để thực hiện đóng gói, chúng ta cần biến tất cả các biến thành viên thành private và tạo các phương thức setter và getter cho các biến đó. Điều này sẽ bắt buộc người khác phải gọi các phương thức setter thay vì truy cập dữ liệu trực tiếp.
+
+ - Đa hình (Polymorphism)
+   Một đối tượng đơn lẻ có thể tham chiếu đến lớp cha hoặc lớp con tùy thuộc vào loại tham chiếu, được gọi là đa hình. Đa hình áp dụng cho việc ghi đè phương thức (overriding).
+
+ - Trừu tượng hóa (Abstraction)
+   Trừu tượng hóa trong lập trình hướng đối tượng có nghĩa là che giấu các chi tiết phức tạp bên trong, chỉ hiển thị những đặc điểm và hành vi cần thiết trong một ngữ cảnh nhất định.
+
+ - Giao diện (Interface)
+   Đa kế thừa không thể được thực hiện trong Java. Để giải quyết vấn đề này, khái niệm giao diện (Interface) được giới thiệu. Giao diện là một mẫu (template) chỉ có các khai báo phương thức mà không có triển khai phương thức.
